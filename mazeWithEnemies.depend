@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1605627427 source:c:\users\forti\documents\csc 222\tiles\mazewithenemies\main.cpp
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_image.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<string.h>
+
